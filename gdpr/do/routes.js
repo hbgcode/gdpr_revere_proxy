@@ -3,8 +3,8 @@ const shortid = require('short-id')
 const IPFS = require("ipfs-api")
 // const ipfs = new IPFS({host: 'ipfs.infura.io', port: 5001, protocol: 'https'})
 
-const projectId = "2DqE0fSVeLCntcc83WDrkCrWBgQ";
-const projectSecret = "f75106e2ecf82d6d844f853a417cc3da";
+const projectId = "2K7dWbBgYCwkerz96PRmnWqHbtw";
+const projectSecret = "6fb7b26ff18e5a0abf21888b66d9f2f5";
 
 
 const auth = "Basic " + Buffer.from(projectId + ":" + projectSecret).toString("base64");
