@@ -2,8 +2,6 @@
 
 This is a simple implementation of backend integration with blockchain technology. 
 
-It provides opportunities for uploading data and accessing files required by the user.
-
 ## Steps to reproduce
 
 - ```npm install```
@@ -12,3 +10,10 @@ It provides opportunities for uploading data and accessing files required by the
 - Then run ```truffle migrate```
 - Then run ```truffle test```
 - Then run ```npm run start```
+
+##Needs to Have
+IPFS Desktop
+Infura Account
+MongoDB Atlas
+MongoDB Compass
+
