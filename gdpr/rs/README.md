@@ -10,3 +10,11 @@ This is a simple implementation of backend integration with blockchain technolog
 - Then run ```truffle migrate```
 - Then run ```truffle test```
 - Then run ```npm run start```
+
+##Needs to Have
+IPFS Desktop
+Infura Account
+MongoDB Atlas
+MongoDB Compass
+
+
